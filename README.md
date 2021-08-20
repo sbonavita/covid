@@ -9,4 +9,4 @@ Descarga y transforma los datos para alimentar la app.
 Código para visualizar los distintos casos positivos de COVID en las localidades de interes.
 
 #### App Funcionando
-https://sbonavita.shinyapps.io/Covid_Municipios/
+https://sbonavita.shinyapps.io/app_covid/
