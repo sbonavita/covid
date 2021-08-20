@@ -22,6 +22,7 @@ covid19.filtrado <- covid19[covid19$residencia_departamento_nombre %in% filtro.m
 
 # Guardo archivo filtrado ----
 write.csv(covid19.filtrado,"~/Nextcloud2/Personal/covid_guido/app_covid/covid19.filtrado.csv", row.names = FALSE)
+# Pendiente modificar para que lo guarde zipeada y no ocupe tanto espacio
 toc()
 
 
