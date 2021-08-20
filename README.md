@@ -1,12 +1,12 @@
-# Casos de Covid en General Guido
+# Casos de Covid en Municipos de Interes
 
 Seguimiento diario de casos de Covid reportados en Guido y localidades de interés personal
 
-## SCR
-Descargar y transforma los datos para alimentar la app Shiny Web
+#### SCR
+Descarga y transforma los datos para alimentar la app.
 
-## APP
+#### APP
 Código para visualizar los distintos casos positivos de COVID en las localidades de interes.
 
-## App Funcionando
+#### App Funcionando
 https://sbonavita.shinyapps.io/Covid_Municipios/
